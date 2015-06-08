@@ -8,7 +8,7 @@ informatique par l'utilisation d'un jeu de rôle.
 
 ## EN
 # NeoSens
-Awareness Method to Computer Security for a Neophyte Audience
+Training Method : Awareness to Computer Security for a Neophyte Audience
 
 # Content
 I hope to upload an english version of this document very soon. 
