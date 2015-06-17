@@ -11,6 +11,5 @@ informatique par l'utilisation d'un jeu de rôle.
 Training Method : Awareness to Computer Security for a Neophyte Audience
 
 # Content
-I hope to upload an english version of this document very soon. 
 This document explains how to train neophyte people to Computer Security principles 
-using a role play game. 
+using a role play game. Many thanks to Juliette and Isabelle for proofreading this version.
